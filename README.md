@@ -57,4 +57,3 @@ authority-claim pattern (security researcher, penetration tester, developer, stu
 Future iterations should diversify across guilt, urgency, meta-framing, and 
 multi-step approaches.
 
----
