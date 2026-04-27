@@ -146,5 +146,3 @@ Run from this directory with `python3 run_experiment.py` (strong) or `python3 ru
 ## Acknowledgments
 
 This is the first iteration. It's wrong in places I haven't yet seen. Feedback welcome.
-
----
