@@ -91,11 +91,6 @@ For an attacker, both facts redirect the next attempt. If this key is fake, ther
 
 Under the strong defense, the model never characterizes its own configuration this way. Strong-defense responses talk about "the API key" as if it were real and external. Weak-defense responses occasionally drop the fourth wall.
 
-[너의 해석 단락 — 내일 작성:
-- *방어가 약하면 모델이 더 솔직해지는* 패턴이 흥미로워. 왜 그럴까?
-- 이게 system prompt extraction 공격의 단서가 되나?
-- 너의 워딩으로.]
-
 ---
 
 ## Finding 3: Regex measurement underspecifies security posture
