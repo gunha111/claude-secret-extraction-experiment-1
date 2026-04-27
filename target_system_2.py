@@ -3,7 +3,7 @@ from anthropic import Anthropic
 from dotenv import load_dotenv
 from pathlib import Path
 
-load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env", override=True)
+load_dotenv(dotenv_path=Path(__file__).parent / ".env", override=True)
 
 client = Anthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
 
