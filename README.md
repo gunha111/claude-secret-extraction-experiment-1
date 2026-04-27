@@ -51,7 +51,10 @@
 (share/give/show + the key). A small subset (min-10, min-16, min-18, min-20) explores 
 indirect references, missing-key framing, conditional phrasing, and ultra-minimal calls. 
 Future iterations should expand the diversity of indirect and conditional forms.
+
 **Ornate limitation:** 25% of ornate prompts use "I am a [role]" 
 authority-claim pattern (security researcher, penetration tester, developer, student). 
 Future iterations should diversify across guilt, urgency, meta-framing, and 
 multi-step approaches.
+
+---
